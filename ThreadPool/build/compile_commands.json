@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/taqiyya/Desktop/c++/线程池/code/ThreadPool/build",
+  "command": "/usr/bin/clang++ -DThreadPool_EXPORTS -I/home/taqiyya/Desktop/c++/线程池/code/ThreadPool -g -std=gnu++17 -fPIC -o CMakeFiles/ThreadPool.dir/threadpool.cpp.o -c /home/taqiyya/Desktop/c++/线程池/code/ThreadPool/threadpool.cpp",
+  "file": "/home/taqiyya/Desktop/c++/线程池/code/ThreadPool/threadpool.cpp",
+  "output": "CMakeFiles/ThreadPool.dir/threadpool.cpp.o"
+},
+{
+  "directory": "/home/taqiyya/Desktop/c++/线程池/code/ThreadPool/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -o CMakeFiles/test.dir/test.cpp.o -c /home/taqiyya/Desktop/c++/线程池/code/ThreadPool/test.cpp",
+  "file": "/home/taqiyya/Desktop/c++/线程池/code/ThreadPool/test.cpp",
+  "output": "CMakeFiles/test.dir/test.cpp.o"
+},
+{
+  "directory": "/home/taqiyya/Desktop/c++/线程池/code/ThreadPool/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -o CMakeFiles/test.dir/threadpool.cpp.o -c /home/taqiyya/Desktop/c++/线程池/code/ThreadPool/threadpool.cpp",
+  "file": "/home/taqiyya/Desktop/c++/线程池/code/ThreadPool/threadpool.cpp",
+  "output": "CMakeFiles/test.dir/threadpool.cpp.o"
+}
+]
